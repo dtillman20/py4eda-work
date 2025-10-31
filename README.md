@@ -1,7 +1,7 @@
 # INSY 6500 - Modern Tools for Data Analysis
 
-**Student**: Daniel Tillman
-**Auburn ID**: dzt0065
+**Student**: Daniel Tillman  
+**Auburn ID**: dzt0065  
 **Semester**: Fall 2025
 
 ## About This Repository
