@@ -51,4 +51,7 @@ Complete this section with details from your setup:
 - Output of `git remote -v`: 
 - The output of `git log --oneline`:
 
+## Questions  
 
+### Reflections  
+ 
