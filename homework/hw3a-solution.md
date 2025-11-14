@@ -53,11 +53,13 @@ Complete this section with details from your setup:
 
 ## Questions  
 
-### Reflections  
+### Reflection Questions 
 1)
    a) Before this assignment I managed different versions of my work via Word, Jupyter lab, and GoogleColab for writing code and using markdown language. I think that it is easier to share documents with Git, since it is a website where a terminal, in my case Git Bash, does not have to be open to run the website unlike Jupyter Lab. When modifying a file in Git Bash via the _editor_, I noticed that the features, _undo_ and _redo_ were not available in the _editor_. This was a big issue for me. But, these two features are available on the Git website, which is where I am directly editing this file.  
    - Advantages of using Git:  
-     - 1st advantage
-     - 2nd advantage
-     - 3rd advantage
+     - advantage: allows you to share python code through a Github account which is linked to a website URL
+     - advantage: git provides a way to verify your commit before you push it to Github
+   b) Hmmm. The situation I can think of is for example, as an engineer in the civilian AF, the program I work for requires field work. If someone from the office asks me if I uploaded a file to say our Sharepoint googledrive but I did not have internet access in the field, if we used Github to share documents, I use git offline to view my Git commit history since this command does require internet access
+
+2) 
  
