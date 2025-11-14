@@ -60,6 +60,18 @@ Complete this section with details from your setup:
      - advantage: allows you to share python code through a Github account which is linked to a website URL
      - advantage: git provides a way to verify your commit before you push it to Github
    b) Hmmm. The situation I can think of is for example, as an engineer in the civilian AF, the program I work for requires field work. If someone from the office asks me if I uploaded a file to say our Sharepoint googledrive but I did not have internet access in the field, if we used Github to share documents, I use git offline to view my Git commit history since this command does require internet access
+2)
+   a) It's important to keep the `class_repo` and `my_repo` separate because:
+     - `class_repo` is read-only, meaning you can only `pull`, read files, from this repository (repo)
+        - If anyone besides Dr. Oleary tried to push commits to this repository it would get denied
+      - `my_repo` is available for reading and writing I believe because it is public
+         - Therefore me or someone could push commits to this repo
+      - If I tried to put everything in one repo, I would not be able to push commits because one of the repos, `class_repo` is read-only
+   b) I would orgaize multiple repos based on which ones I would want to be read-only: 
+      - A group project I would allow anyone in my group to be able to `pull` or `push` commits to the repo.
+      - Probably for an individual assignment I would make the repo read-only, so others could only `pull` from it
+         - For reference materials, I would definitely make this repo read-only.
+3) 
+  
 
-2) 
  
