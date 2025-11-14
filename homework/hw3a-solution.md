@@ -80,6 +80,12 @@ Complete this section with details from your setup:
           - "Added ...", "Finished ...", and "Updated ..." could be useful for a single commit
       
 ### Graduate Questions
-1) 
+1)
+   a) It was valuable to commit `README.md` and `.gitignore` together because:
+     - The `README.md` file creates a cover page for the repo 
+     - `.gitignore` uses certain code entries to ensure that certain things are not tracked by Git, in this case:
+          - entries were used in this file to exclude common Python/Jupyter artifacts 
+      - I'm not quite sure what I would have lost but my best guess is maybe the writing in my `hw3a-solution.md` file if I committed everything at once
+   b) 
 
  
