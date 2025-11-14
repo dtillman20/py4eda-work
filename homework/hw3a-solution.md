@@ -67,7 +67,7 @@ Complete this section with details from your setup:
       - `my_repo` is available for reading and writing I believe because it is public
          - Therefore me or someone could push commits to this repo
       - If I tried to put everything in one repo, I would not be able to push commits because one of the repos, `class_repo` is read-only
-   b) I would orgaize multiple repos based on which ones I would want to be read-only: 
+   b) I would organize multiple repos based on which ones I would want to be read-only: 
       - A group project I would allow anyone in my group to be able to `pull` or `push` commits to the repo.
       - Probably for an individual assignment I would make the repo read-only, so others could only `pull` from it
          - For reference materials, I would definitely make this repo read-only.
@@ -85,7 +85,28 @@ Complete this section with details from your setup:
      - The `README.md` file creates a cover page for the repo 
      - `.gitignore` uses certain code entries to ensure that certain things are not tracked by Git, in this case:
           - entries were used in this file to exclude common Python/Jupyter artifacts 
-      - I'm not quite sure what I would have lost but my best guess is maybe the writing in my `hw3a-solution.md` file if I committed everything at once
-   b) 
+      - I'm not quite sure what I would have lost but my best guess is that it would add unnecessary information  
+   b) I should commit `Write code to load data` first and then I should wait on the `Update your README` commit
+      - My thought process for this is that I should be loading data working on an analysis function for that data before I update the file.
+      - Staging helps you verify what items will be committed
+   c) Git status makes you aware of what files have been added to the staging area and are ready to be committed and which files have been edited but **not** added to the staging area yet
+      - This should be used when verifying what state a file is in, whether is has been added to the staging area and is ready to commit or not
 
+2)
+   a) "Distributed" version control system means that Git tracks every change with history
+     - On Github, every commit is tracked and documented
+     - google drive or dropbox are used for storing and sycing files
+   b) This type of architecture allows developers more flexibility such as saving there work separate from Github without needing internet access
+   c) git clone makes a copy of another repo which allows a user to use git pull on that repo, and then git push makes changed to the repo.
+      - only pull is allowed from `class_repo` **not** push because it is a read-only repo.
+      - pull and push is allowed for `my_repo` because it is a public repo
+
+3)
+   a) Things to be considered are:
+     - am I loading data
+     - what type of change am i wanting to commit
+     - I think it's benfecial to show your interations, however you want to verify the professionalism level of your commit as well
+   b) a README file for a portfolio repo is similar to having a cover page and adds professionalism to the repo. 
+
+       
  
