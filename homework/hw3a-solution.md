@@ -71,7 +71,15 @@ Complete this section with details from your setup:
       - A group project I would allow anyone in my group to be able to `pull` or `push` commits to the repo.
       - Probably for an individual assignment I would make the repo read-only, so others could only `pull` from it
          - For reference materials, I would definitely make this repo read-only.
-3) 
-  
+3)
+   a) "update" is more useful when updating a file and the 2nd message is more useful when adding a file to a repo.
+     - These two commit messages help separate and distinguish when a new file is being added or an existing file is being updated.
+     - I might need to find the 2nd commit for book keeping reasons or to document when a certain file was initally committed
+   b) First, I clarified with Claude to understand why the cammands, commit and push are separate. It explained that using commit is like saving your changes in a word document and then pushing those changes is like uploading them to google drive. Using the commit command does not require internet access. 
+      - With this information, I would choose to commit my changes probably daily so that my work is saved and safe.
+          - "Added ...", "Finished ...", and "Updated ..." could be useful for a single commit
+      
+### Graduate Questions
+1) 
 
  
