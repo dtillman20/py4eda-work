@@ -106,7 +106,10 @@ Complete this section with details from your setup:
      - am I loading data
      - what type of change am i wanting to commit
      - I think it's benfecial to show your interations, however you want to verify the professionalism level of your commit as well
-   b) a README file for a portfolio repo is similar to having a cover page and adds professionalism to the repo. 
+   b) a README file for a portfolio repo is similar to having a cover page and adds professionalism to the repo.
+   c) For a portfolio I should develop adding current, previous, and future class projects that I have completed throughout my grad degree
+      - These projects should also include data to back up my projects such as code, equations, derivations, etc. 
+      - Once I continue working for the AF, I can then add projects from my work and add data and explanations that support the projects 
 
        
  
